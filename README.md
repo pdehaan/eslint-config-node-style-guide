@@ -4,5 +4,5 @@ This package provides a copy of [**felixge/node-style-guide**](https://github.co
 
 ## Usage
 
-1. Run `npm install eslint-config-node-style-guide -d` from your Terminal.
+1. Run `npm install eslint-config-node-style-guide -D` from your Terminal.
 2. Add `"extends": "node-style-guide"` to your .eslintrc file.
