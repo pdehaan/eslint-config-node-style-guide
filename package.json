@@ -7,6 +7,7 @@
     "url": "https://github.com/pdehaan/eslint-config-node-style-guide/issues"
   },
   "dependencies": {
+    "naked-json-require": "1.0.0",
     "node-style-guide": "felixge/node-style-guide"
   },
   "homepage": "https://github.com/pdehaan/eslint-config-node-style-guide#readme",
@@ -16,10 +17,7 @@
   ],
   "license": "CC-BY-SA-3.0",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pdehaan/eslint-config-node-style-guide.git"
-  },
+  "repository": "pdehaan/eslint-config-node-style-guide",
   "scripts": {
     "test": "eslint ."
   }
