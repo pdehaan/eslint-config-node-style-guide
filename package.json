@@ -1,14 +1,13 @@
 {
   "name": "eslint-config-node-style-guide",
   "description": "ESLint shareable config version of felixge/node-style-guide.",
-  "version": "2.1.0",
+  "version": "3.0.0-beta",
   "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
   "bugs": {
     "url": "https://github.com/pdehaan/eslint-config-node-style-guide/issues"
   },
   "dependencies": {
-    "naked-json-require": "1.0.0",
-    "node-style-guide": "felixge/node-style-guide"
+    "node-style-guide": "^1.0.0"
   },
   "homepage": "https://github.com/pdehaan/eslint-config-node-style-guide#readme",
   "keywords": [
