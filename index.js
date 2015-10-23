@@ -1,6 +1,3 @@
 'use strict';
 
-var utils = require('./lib/utils');
-var config = utils.loadConfig();
-
-module.exports = config;
+module.exports = require('node-style-guide').eslintrc;
